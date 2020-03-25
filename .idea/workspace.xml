@@ -2,8 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3fb9a74c-43c7-48f1-b186-1a5a9ca95ee9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Server.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/Test.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -52,10 +50,11 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Dokumente\Schulzeug\Referate etc\Chatserver\src" />
       <recent name="D:\Dokumente\Referate etc\Chatserver\src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Client">
+  <component name="RunManager" selected="Application.Test">
     <configuration name="Client" type="Application" factoryName="Application" singleton="false" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Client" />
       <module name="Chatserver" />
@@ -79,9 +78,9 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Test" />
         <item itemvalue="Application.Client" />
         <item itemvalue="Application.Server" />
-        <item itemvalue="Application.Test" />
       </list>
     </recent_temporary>
   </component>
@@ -101,6 +100,7 @@
       <workItem from="1584710664603" duration="2515000" />
       <workItem from="1584812550802" duration="28000" />
       <workItem from="1584812734257" duration="376000" />
+      <workItem from="1585142946256" duration="456000" />
     </task>
     <task id="LOCAL-00001" summary="Klassen umgeschrieben">
       <created>1584032835925</created>
@@ -109,7 +109,14 @@
       <option name="project" value="LOCAL" />
       <updated>1584032835925</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Umstrukturiert">
+      <created>1585143129702</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1585143129702</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -117,7 +124,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Klassen umgeschrieben" />
-    <option name="LAST_COMMIT_MESSAGE" value="Klassen umgeschrieben" />
+    <MESSAGE value="Umstrukturiert" />
+    <option name="LAST_COMMIT_MESSAGE" value="Umstrukturiert" />
   </component>
   <component name="WindowStateProjectService">
     <state x="629" y="162" key="#Client" timestamp="1584809230673">
@@ -148,30 +156,30 @@
       <screen x="0" y="0" width="1824" height="986" />
     </state>
     <state x="642" y="238" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1824.986/-1440.119.1440.900@0.0.1824.986" timestamp="1584024679312" />
-    <state x="432" y="84" key="CommitChangelistDialog2" timestamp="1584032834646">
+    <state x="432" y="84" key="CommitChangelistDialog2" timestamp="1585143128575">
       <screen x="0" y="0" width="1824" height="986" />
     </state>
-    <state x="432" y="84" key="CommitChangelistDialog2/0.0.1824.986/-1440.119.1440.900@0.0.1824.986" timestamp="1584032834646" />
+    <state x="432" y="84" key="CommitChangelistDialog2/0.0.1824.986/-1440.119.1440.900@0.0.1824.986" timestamp="1585143128575" />
     <state x="618" y="233" key="FileChooserDialogImpl" timestamp="1584025205863">
       <screen x="0" y="0" width="1824" height="986" />
     </state>
     <state x="618" y="233" key="FileChooserDialogImpl/0.0.1824.986/-1440.119.1440.900@0.0.1824.986" timestamp="1584025205863" />
-    <state width="1780" height="198" key="GridCell.Tab.0.bottom" timestamp="1584812812958">
+    <state width="1780" height="198" key="GridCell.Tab.0.bottom" timestamp="1585143465139">
       <screen x="0" y="0" width="1824" height="986" />
     </state>
-    <state width="1780" height="198" key="GridCell.Tab.0.bottom/0.0.1824.986/-1440.119.1440.900@0.0.1824.986" timestamp="1584812812958" />
-    <state width="1780" height="198" key="GridCell.Tab.0.center" timestamp="1584812812957">
+    <state width="1780" height="198" key="GridCell.Tab.0.bottom/0.0.1824.986/-1440.119.1440.900@0.0.1824.986" timestamp="1585143465139" />
+    <state width="1780" height="198" key="GridCell.Tab.0.center" timestamp="1585143465139">
       <screen x="0" y="0" width="1824" height="986" />
     </state>
-    <state width="1780" height="198" key="GridCell.Tab.0.center/0.0.1824.986/-1440.119.1440.900@0.0.1824.986" timestamp="1584812812957" />
-    <state width="1780" height="198" key="GridCell.Tab.0.left" timestamp="1584812812957">
+    <state width="1780" height="198" key="GridCell.Tab.0.center/0.0.1824.986/-1440.119.1440.900@0.0.1824.986" timestamp="1585143465139" />
+    <state width="1780" height="198" key="GridCell.Tab.0.left" timestamp="1585143465139">
       <screen x="0" y="0" width="1824" height="986" />
     </state>
-    <state width="1780" height="198" key="GridCell.Tab.0.left/0.0.1824.986/-1440.119.1440.900@0.0.1824.986" timestamp="1584812812957" />
-    <state width="1780" height="198" key="GridCell.Tab.0.right" timestamp="1584812812958">
+    <state width="1780" height="198" key="GridCell.Tab.0.left/0.0.1824.986/-1440.119.1440.900@0.0.1824.986" timestamp="1585143465139" />
+    <state width="1780" height="198" key="GridCell.Tab.0.right" timestamp="1585143465139">
       <screen x="0" y="0" width="1824" height="986" />
     </state>
-    <state width="1780" height="198" key="GridCell.Tab.0.right/0.0.1824.986/-1440.119.1440.900@0.0.1824.986" timestamp="1584812812958" />
+    <state width="1780" height="198" key="GridCell.Tab.0.right/0.0.1824.986/-1440.119.1440.900@0.0.1824.986" timestamp="1585143465139" />
     <state width="1780" height="320" key="GridCell.Tab.1.bottom" timestamp="1584810603682">
       <screen x="0" y="0" width="1824" height="986" />
     </state>
@@ -192,10 +200,10 @@
       <screen x="0" y="0" width="1824" height="986" />
     </state>
     <state x="697" y="202" key="RollbackChangesDialog/0.0.1824.986/-1440.119.1440.900@0.0.1824.986" timestamp="1584027377776" />
-    <state x="392" y="66" key="SettingsEditor" timestamp="1584030852412">
+    <state x="392" y="66" key="SettingsEditor" timestamp="1585143403185">
       <screen x="0" y="0" width="1824" height="986" />
     </state>
-    <state x="392" y="66" key="SettingsEditor/0.0.1824.986/-1440.119.1440.900@0.0.1824.986" timestamp="1584030852412" />
+    <state x="392" y="66" key="SettingsEditor/0.0.1824.986/-1440.119.1440.900@0.0.1824.986" timestamp="1585143403185" />
     <state x="504" y="224" key="Vcs.Push.Dialog.v2" timestamp="1584032838108">
       <screen x="0" y="0" width="1824" height="986" />
     </state>
