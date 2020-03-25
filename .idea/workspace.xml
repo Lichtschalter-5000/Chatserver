@@ -2,9 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3fb9a74c-43c7-48f1-b186-1a5a9ca95ee9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Server.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Test.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -101,6 +98,8 @@
       <workItem from="1584710664603" duration="2515000" />
       <workItem from="1584812550802" duration="28000" />
       <workItem from="1584812734257" duration="376000" />
+      <workItem from="1585142741672" duration="5000" />
+      <workItem from="1585142800620" duration="5000" />
     </task>
     <task id="LOCAL-00001" summary="Klassen umgeschrieben">
       <created>1584032835925</created>
@@ -200,10 +199,10 @@
       <screen x="0" y="0" width="1824" height="986" />
     </state>
     <state x="504" y="224" key="Vcs.Push.Dialog.v2/0.0.1824.986/-1440.119.1440.900@0.0.1824.986" timestamp="1584032838108" />
-    <state x="608" y="315" key="com.intellij.ide.util.TipDialog" timestamp="1584812746668">
+    <state x="608" y="315" key="com.intellij.ide.util.TipDialog" timestamp="1585142800327">
       <screen x="0" y="0" width="1824" height="986" />
     </state>
-    <state x="608" y="315" key="com.intellij.ide.util.TipDialog/0.0.1824.986/-1440.119.1440.900@0.0.1824.986" timestamp="1584812746668" />
+    <state x="608" y="315" key="com.intellij.ide.util.TipDialog/0.0.1824.986/-1440.119.1440.900@0.0.1824.986" timestamp="1585142800327" />
     <state x="710" y="155" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1584026147746">
       <screen x="0" y="0" width="1824" height="986" />
     </state>
