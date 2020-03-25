@@ -24,7 +24,7 @@ extends Server
     @Override
     public void verbindungBeendet () 
     {
-        sendeString("Info an alle: Ein Client hat gerade die Verbindung abgebrochen.");
+        sendeString("[Server]: Ein Client hat gerade die Verbindung abgebrochen.");
     }
 
     @Override
