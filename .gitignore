@@ -2,3 +2,4 @@ engine-alpha.log
 *.class
 *.ctxt
 /out/**
+.idea/workspace.xml
